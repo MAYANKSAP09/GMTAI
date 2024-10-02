@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import base64
 from io import BytesIO
-
+ 
 # Set FastAPI backend URL
 FASTAPI_URL = "http://localhost:8000"  # Update with your FastAPI server URL
 
